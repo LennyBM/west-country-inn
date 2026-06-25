@@ -1,0 +1,11 @@
+:root {
+  --brand-primary: #6B2C39;
+  --brand-accent: #D4A23A;
+  --brand-ink: #241c16;
+  --brand-bg: #FBF7F0;
+  --brand-surface: #FFFFFF;
+  --brand-contrast: #FFFFFF;
+  --brand-muted: #6f6358;
+  --brand-border: #e7ddcf;
+  --brand-hero-overlay: rgba(20,12,6,0.5);
+}
